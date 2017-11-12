@@ -1,2 +1,3 @@
 models/*/cache
 models/*/.ipynb_checkpoints
+*.[jJ][pP][gG]
