@@ -1,2 +1,4 @@
 models/*/cache
 models/*/.ipynb_checkpoints
+final-project/.ipynb_checkpoints
+.ipynb_checkpoints
